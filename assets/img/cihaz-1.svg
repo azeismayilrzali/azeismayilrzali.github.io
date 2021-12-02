@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81.968" height="178.028" viewBox="0 0 81.968 178.028">
+  <g id="cihaz-1" transform="translate(-1330.806 -189.421)">
+    <g id="Group_773" data-name="Group 773" transform="translate(1330.806 367.448) rotate(-90)">
+      <path id="Rectangle_32" data-name="Rectangle 32" d="M5,5V52.312H96.7V5H5M0,0H101.7V57.312H0Z" transform="translate(17.98)" fill="#fafafa"/>
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="36.522" height="40.456" rx="18.261" transform="translate(0 8.428)" fill="#fafafa"/>
+      <path id="Rectangle_33_-_Outline" data-name="Rectangle 33 - Outline" d="M18.261,5A13.261,13.261,0,0,0,5,18.261v3.933a13.261,13.261,0,0,0,26.522,0V18.261A13.261,13.261,0,0,0,18.261,5m0-5A18.261,18.261,0,0,1,36.522,18.261v3.933A18.261,18.261,0,0,1,0,22.194V18.261A18.261,18.261,0,0,1,18.261,0Z" transform="translate(0 8.428)" fill="#fafafa"/>
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="36.522" height="40.456" rx="18.261" transform="translate(101.701 8.428)" fill="#fafafa"/>
+      <path id="Rectangle_34_-_Outline" data-name="Rectangle 34 - Outline" d="M18.261,5A13.261,13.261,0,0,0,5,18.261v3.933a13.261,13.261,0,0,0,26.522,0V18.261A13.261,13.261,0,0,0,18.261,5m0-5A18.261,18.261,0,0,1,36.522,18.261v3.933A18.261,18.261,0,0,1,0,22.194V18.261A18.261,18.261,0,0,1,18.261,0Z" transform="translate(101.701 8.428)" fill="#fafafa"/>
+    </g>
+    <g id="Group_777" data-name="Group 777" transform="translate(1345.231 352.319) rotate(-90)" opacity="0.44">
+      <path id="Rectangle_32-2" data-name="Rectangle 32" d="M5,5V62.543H114.856V5H5M0,0H119.856V67.543H0Z" transform="translate(21.19)" fill="#fafafa"/>
+      <rect id="Rectangle_33-2" data-name="Rectangle 33" width="43.042" height="47.678" rx="21.521" transform="translate(0 9.933)" fill="#fafafa"/>
+      <path id="Rectangle_33_-_Outline-2" data-name="Rectangle 33 - Outline" d="M21.521,5A16.521,16.521,0,0,0,5,21.521v4.635A16.521,16.521,0,0,0,33.2,37.839a16.413,16.413,0,0,0,4.839-11.682V21.521A16.521,16.521,0,0,0,21.521,5m0-5A21.521,21.521,0,0,1,43.042,21.521v4.635A21.521,21.521,0,0,1,0,26.156V21.521A21.521,21.521,0,0,1,21.521,0Z" transform="translate(0 9.933)" fill="#fafafa"/>
+      <rect id="Rectangle_34-2" data-name="Rectangle 34" width="43.042" height="47.678" rx="21.521" transform="translate(119.856 9.933)" fill="#fafafa"/>
+      <path id="Rectangle_34_-_Outline-2" data-name="Rectangle 34 - Outline" d="M21.521,5A16.521,16.521,0,0,0,5,21.521v4.635A16.521,16.521,0,0,0,33.2,37.839a16.413,16.413,0,0,0,4.839-11.682V21.521A16.521,16.521,0,0,0,21.521,5m0-5A21.521,21.521,0,0,1,43.042,21.521v4.635A21.521,21.521,0,0,1,0,26.156V21.521A21.521,21.521,0,0,1,21.521,0Z" transform="translate(119.856 9.933)" fill="#fafafa"/>
+    </g>
+  </g>
+</svg>

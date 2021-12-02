@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1187" height="1204" viewBox="0 0 1187 1204">
+  <defs>
+    <clipPath id="clip-Button:hover">
+      <rect width="1187" height="1204"/>
+    </clipPath>
+  </defs>
+  <g id="Button:hover" clip-path="url(#clip-Button:hover)">
+    <rect width="1187" height="1204" fill="#1f1f1f"/>
+    <path id="Path_52691" data-name="Path 52691" d="M1886.824,12697.72l57.878-87.541h377.654l-63.666,87.541Z" transform="translate(-1511.09 -12051.949)" fill="#91948e" stroke="#fff" stroke-width="2"/>
+    <text id="request_a_quote" data-name="request a quote" transform="translate(469.734 610.229)" fill="#fff" font-size="23" font-family="Druk-WideMedium, Druk" font-weight="500"><tspan x="0" y="0">request a quote</tspan></text>
+  </g>
+</svg>
